@@ -1,0 +1,9 @@
+*.gz
+*.toc
+*.aux
+*.log
+*.out
+*.snm
+.ipynb_checkpoints
+*.nav
+
